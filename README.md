@@ -2,7 +2,7 @@
 
 - ⚡ I am a Quality Assurance Engineer at ITBP Bulgaria.
 - 🌱 I’m currently studying Informatics at Plovdiv University "Paisii Hilendarski".
-- 📫 You can reach me at: https://www.linkedin.com/in/pavel-lalev-9200491bb/ 
+- 📫 You can contact me on LinkedIn: https://www.linkedin.com/in/pavel-lalev-9200491bb/ 
 
 
 <!--
