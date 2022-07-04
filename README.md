@@ -6,8 +6,9 @@
 
 ---
 
-<img align="left" alt="plalev1948 's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plalev1948&show_icons=true&theme=radical />
+<!-- <img align="left" alt="plalev1948 's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plalev1948&show_icons=true&theme=radical /> -->
 
+![plalev1948 's GitHub stats](https://github-readme-stats.vercel.app/api?username=plalev1948&show_icons=true&theme=radical)
 
 <!--
 **plalev1948/plalev1948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
