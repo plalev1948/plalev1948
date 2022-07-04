@@ -4,6 +4,9 @@
 - 🌱 I’m currently studying Informatics at Plovdiv University "Paisii Hilendarski".
 - 📫 You can contact me on LinkedIn: https://www.linkedin.com/in/pavel-lalev-9200491bb/ 
 
+---
+
+<img align="left" alt="plalev1948 's GitHub stats" src="https://github-readme-stats.versel.app/api?username=plalev1948&show_icons=true&hide_border=true" />
 
 <!--
 **plalev1948/plalev1948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
