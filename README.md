@@ -1,7 +1,7 @@
 ### Hi there👋 , my name is Pavel and this is my GitHub profile.
 
 - ⚡ I am a Quality Assurance Engineer at ITBP Bulgaria.
-- 🌱 I’m currently studying Informatics at Plovdiv University "Paisii Hilendarski".
+- 🌱 I have completed successfully my Bachelor's degree of Informatics at Plovdiv University "Paisii Hilendarski".
 - 📫 You can contact me on LinkedIn: https://www.linkedin.com/in/pavel-lalev-9200491bb/ 
 
 ---
